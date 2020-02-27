@@ -1,20 +1,29 @@
-1. Team Factors
+1. Team Factors:
+
 Since I am to build a product that would be a streaming service, first I would need to assemble a viable team of about 2-3 talented individuals. The benefits that they will bring should augment each other’s skills in order to achieve the vision. This team should have people who are detail oriented, resourceful, and obsessive with getting things done. A good balance of such qualities will propel the business and complement each other.
 As the engineer and product manager, I would have some level of skill in coding but lack extensive background in computer science. Nonetheless, I would be rapid prototyping a product suited to market needs through cooperating with market researchers for better design and engineers for engineering limitations.
 Firstly, I would need a CTO for the project. Someone who can oversee the project’s technological needs and compliment my technical knowledge. This person would need to understand frontend and app development for different ecosystems and platforms for the streaming service. This person would need to understand video and meta data management, reliable cloud platforms, servers, and security. Such a person should have technical expertise or a degree in these areas.
 Secondly, I would need a growth hacker/financial manager. This person would need to understand the market, our budget, bring in investment deals, marketing, pay staff, deal with accounting. Understand the operations of a business and perhaps have an MBA. This person should ideally also be data-driven and analytically focused. Having an idea of the customer persona and marketing to suit their needs.
 Thirdly, I would need a sales master who is resilient and patient with customers. Working alongside the growth hacker this person would need clear communication skills, understand the product through communication with engineers,
-2. Discovery
+
+2. Discovery:
+
 The pain points are that users desire to watch long episodes in shorter durations since 40-minute episodes are too long. They would prefer to watch in 10-minute increments. The job to be done is to allow users to watch in shorter increments, whether it be through shorter episodes in which content creators would have to supply or be able to track where they have left off from a previous stream. The job-to-be-done is to create a sticky flywheel platform that can increase time spent on the platform while solving the issue of watching in shorter durations. Features that would need to be implemented would include a streaming service providing a myriad of organized shows and episodes, a feature to track where the user left off in the episode, or a whole new supplier market of content creators that make episodes of 10 minutes or less. The way to monetize this product would be through a subscription fee, allowing users to watch premium content, or run ads on free content.
 In terms of eliminating RATS, a MVP has to be built, which would entail a website, catering to browser access devices before mobile apps. Metrics would include features such as the 10-minute duration content followed by the next riskiest move, savable time stamps.
-3. Competition
+
+3. Competition:
+
 Competitive analysis would describe direct and indirect competitors. As there is a huge demand and time spent on streaming tv-shows and video content, apathy as a competitor is insignificant. Other direct competitors would include Netflix, Hulu, Disney+, YouTube and Vimeo. While Netflix, Hulu, and Disney+ serve as direct competitors in the filmed tv-show streaming category, YouTube and Vimeo serve as indirect competitors to a market for streaming individual content creators. Most of such competitors gain customers through not only their direct service, but also their ecosystems of platforms. For example, YouTube is linked to your google account, or Disney+ is linked to Disney channel and hence, many people’s childhoods.
 Despite the competitors, the product has its own whitespace in terms of limiting the length of videos or episodes to 10-minutes. The competitive advantage would be that it’s a lot shorter of a watch, and since users may have less attention span these days, the quality of the watch and closure from finishing an episode would grant users a higher quality experience. Plus, since episodes are shorter, content creators can focus more on the quality of their content and have competition with each other to become more popular. The major way to differentiate from others would be to limit video length to 10-minutes and focus on quality of such content.
- 4. Monetization
+
+ 4. Monetization:
+ 
 The monetizable opportunities include a subscription program for users that would allow them to watch whatever show they want available on the platform. Another income stream of monetization would be through running advertisements for content-creator videos, such as those on YouTube, and an even more premium subscription to dispose of such ads. Lastly, the content creators and actual show makers would have to be paid based on specific metrics such as the popularity of the show or their content.
 The flywheel that will keep users glued to the platform would be the dual functionality of the product. Although YouTube has premium content, its premium content is still made by YouTubers, where as this product would be a true dual platform having an open public video sharing platform as well as actual studio filmed large budget shows. Such an ecosystem would allow users to stay engaged on the website whether through waiting for a new episode in an exciting storyline of a show, or through just mindlessly browsing unique public content.
 As an additional flywheel the business could also include renting out or selling projectors with a couple months of the product included. This way people who can’t afford a television set could also enjoy a large screen experience while sticking engaged to the platform. 
-5. Product/Market Fit
+
+5. Product/Market Fit:
+
 This product would fit the market because with rising technologies and advancements in the entertainment industries, people are getting shorter attention spans and desire less click-bait long videos and instead watch something quick and get on with life. This persona of a customer leaves the market in need of our product. Such customers would be willing to pay to have this problem solved, since it would make their busy lives much quicker while enriching through solid entertainment in the span of shorter durations. As there is competitive whitespace in this market, the vastness allows the construction of a flywheel in the form of projector rentals which also targets the lower-income demographic who can’t afford television but still want a large-screen experience. 
  
 
